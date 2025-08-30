@@ -26,21 +26,11 @@ Me chamo Guilherme de Lima, tenho 30 anos e sou natural do Rio Grande do Sul. At
 
 ### 🤖 Linguagens e Tecnologias
 
-<br/>
-
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>  
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -99,7 +89,16 @@ Me chamo Guilherme de Lima, tenho 30 anos e sou natural do Rio Grande do Sul. At
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>    
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>  
+
 <br/>
 <br/>
 --- 
